@@ -1,0 +1,30 @@
+---
+version: 1
+component:
+  name: Micro Service 1
+  type: service
+  lifecycle:
+  tier:
+  product:
+  owner:
+  system:
+  language:
+  framework:
+  description:
+  aliases:
+  tags:
+  repositories:
+  - name: derek-etherton-opslevel/MicroReadmes
+    path: "/service_1"
+    provider: github
+    display_name: derek-etherton-opslevel/MicroReadmes
+  tools:
+  dependencies:
+  alert_sources:
+  properties:
+    enum_with_null:
+    keep_me:
+    'off':
+    'on':
+    s1:
+    s2:
