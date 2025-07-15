@@ -1,0 +1,23 @@
+---
+version: 1
+component:
+  name: Micro Service 929
+  type: service
+  lifecycle:
+  tier:
+  product:
+  owner:
+  system:
+  language:
+  framework:
+  description:
+  aliases:
+  tags:
+  repositories:
+  - name: derek-etherton-opslevel/MicroReadmes
+    path: "/service_0929"
+    provider: github
+    display_name: derek-etherton-opslevel/MicroReadmes
+  tools:
+  dependencies:
+  alert_sources:

@@ -20,10 +20,3 @@ component:
   tools:
   dependencies:
   alert_sources:
-  properties:
-    enum_with_null:
-    keep_me:
-    'off':
-    'on':
-    s1:
-    s2:
